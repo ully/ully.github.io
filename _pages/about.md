@@ -8,20 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-More than ten years of experience in large-scale Internet recommendation and search system architecture design and development. At present, the focus is on the design, development and recommendation of self-developed AI scenario application development framework, and the design and implementation of intelligent system application architecture such as search
+More than ten years of experience in large-scale Internet recommendation and search system architecture design and development. Focus on devops, mlops, machine learning platform, recommendation system and other data-driven system architecture design.Recently, focusing on edge compute architecture and Cloud-Edge Collaborative AI Scenario Landing Solution.
 
 Skills
 ======
-* Complex data-driven system architecture design
+* Good at complex data-driven system architecture design
+* Rich experience in toB and toC architecture design
+* Master popular architecture and technology（cloudnative & servless & microservice...）
 * Full stack development ability, master multiple languages,such as java,python,go,js...
-* Master popular architecture and technology（cloudnative & servless & microservice）
 * Multiple product incubation experience from 0->1->100
+
 
 Work experience
 ======
-2017-now 4paradigm(第四范式)
-2013-2017 Qunar(去哪儿)
-2009-2013 Baidu（百度）
+* 2017-now 4paradigm(第四范式)
+* 2013-2017 Qunar(去哪儿)
+* 2009-2013 Baidu（百度）
 
 education experience
 ======
