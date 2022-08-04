@@ -22,9 +22,9 @@ Skills
 
 Work experience
 ======
-* 2017-now 4paradigm(第四范式)
-* 2013-2017 Qunar(去哪儿)
-* 2009-2013 Baidu(百度）
+* 2017.6-Now 4Paradigm(第四范式)
+* 2013.9-2017.6 Qunar(去哪儿)
+* 2009.8-2013.9 Baidu(百度）
 
 Education experience
 ======
