@@ -27,7 +27,7 @@ Work experience
 
 education experience
 ======
-* master in renmin university(中国人民大学)
-* bachelor in xidian university(西安电子科技大学)
+* master in Renmin University of China(中国人民大学)
+* bachelor in Xidian University(西安电子科技大学)
 
 
