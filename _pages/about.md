@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-More than ten years of experience in large-scale Internet recommendation and search system architecture and development. Focus on devops, mlops, machine learning platform, recommendation system and other data-driven system architecture.Recently, focusing on edge compute architecture and Cloud-Edge Collaborative AI Scenario Landing Solution.
+More than ten years of experience in large-scale Internet recommendation and search system architecture and development. My field of work involves devops, mlops, machine learning platform, recommendation system and other data-driven system architecture.
+
+Recently, focusing on edge compute architecture and Cloud-Edge Collaborative AI Scenario Landing Solution.
 
 Skills
 ======
