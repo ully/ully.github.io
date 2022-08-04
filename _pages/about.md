@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-More than ten years of experience in large-scale Internet recommendation and search system architecture and development. My field of work involves devops, mlops, machine learning platform, recommendation system and other data-driven system architecture.
+More than ten years of experience in large-scale Internet recommendation and search system architecture design and development. My field of work involves devops, mlops, machine learning platform, recommendation system and other data-driven system architecture.
 
 Recently, focusing on edge compute architecture and Cloud-Edge Collaborative AI Scenario Landing Solution.
 
@@ -19,7 +19,7 @@ Skills
 * Master popular architecture and technology（cloudnative & servless & microservice...）
 * Full stack development ability, master multiple languages,such as java,python,go,js...
 * Multiple product incubation experience from 0->1->100
-* Many Years of team management experience
+* Many years of team management experience
 
 
 Work experience
