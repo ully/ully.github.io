@@ -22,13 +22,13 @@ Skills
 
 Work experience
 ======
-* 2017-Now 4paradigm(第四范式)
+* 2017-now 4paradigm(第四范式)
 * 2013-2017 Qunar(去哪儿)
 * 2009-2013 Baidu（百度）
 
-Education experience
+education experience
 ======
-* Master in Renmin University of China(中国人民大学)
-* Bachelor in Xidian University(西安电子科技大学)
+* master in Renmin University of China(中国人民大学)
+* bachelor in Xidian University(西安电子科技大学)
 
 
