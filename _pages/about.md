@@ -17,6 +17,7 @@ Skills
 * Master popular architecture and technology（cloudnative & servless & microservice...）
 * Full stack development ability, master multiple languages,such as java,python,go,js...
 * Multiple product incubation experience from 0->1->100
+* Many Years of team management experience
 
 
 Work experience
