@@ -15,11 +15,11 @@ Recently, focusing on edge compute architecture and Cloud-Edge Collaborative AI 
 Skills
 ======
 * Good at complex data-driven system architecture
-* Rich experience in toB and toC architecture
-* Master popular architecture and technology（cloudnative & servless & microservice...）
-* Full stack development ability, master multiple languages,such as java,python,go,js...
+* Rich Project experience in AI&data-driven System，such as recommendation system
+* Full stack architecture(Backend & AI & BigData) in AI&Digital transformation field
 * Multiple product incubation experience from 0->1->100
 * Many years of team management experience
+* Have a business and financial mindset
 
 
 Work experience
