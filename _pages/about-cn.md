@@ -4,7 +4,7 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /about-cn
   - /about-cn.html
 ---
 English ｜ [中文](/about-cn)
