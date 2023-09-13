@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "LIHAN/李瀚"
 title_separator          : "-"
 name                     : &name "lihan"
-description              : &description "Software Architect in 4paradigm"
+description              : &description "AI Architect in 4paradigm"
 url                      : https://about.ully.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ully/ully.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "LiHan(李瀚)"
   avatar           : "me.png"
-  bio              : "Software Architect,R&D Director"
+  bio              : "AI Architect,R&D Director"
   location         : "Beijing,China"
   employer         :
   pubmed           :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ully"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : ully_li
   vine             :
   weibo            :
   xing             :
