@@ -31,7 +31,7 @@ Work experience
 
   2）Assisted multiple Fortune 500 clients in AI/digital transformation.
 
-  3）Recently, responsible for the research and development of large-scale model solutions in the company and pre-sales and delivery for projects related to retail clients.
+  3）Recently, responsible for the research and development of LLM solutions in the company and pre-sales and delivery for projects related to retail clients.
 
 * **2013.9-2017.6  [Qunar(去哪儿)](http://www.qunar.com) Technical Director/Architect**
 
