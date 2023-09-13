@@ -35,7 +35,7 @@ Work experience
 
 * **2013.9-2017.6  [Qunar(去哪儿)](http://www.qunar.com) Technical Director/Architect**
 
-  Built a technology team from scratch and was responsible for constructing and maintaining user-side systems such as the main website、search、recommendation, and pricing systems. I applied technologies such as big data and AI to the business and improved business performance through data-driven operations and iterative optimization.
+  Built a technology team from scratch and was responsible for constructing and maintaining user-side systems such as the main website、search、recommendation and pricing systems. I applied technologies such as big data and AI to the business and improved business performance through data-driven operations and iterative optimization.
 
 * **2010.8-2013.9 [Baidu(百度)](https://www.baidu.com/) Senior Software Development Engineer**
 
