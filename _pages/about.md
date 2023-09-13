@@ -39,7 +39,7 @@ Work experience
 
 * **2010.8-2013.9 [Baidu(百度）](https://www.baidu.com/) Senior Software Development Engineer**
 
-  As a core member, I participated in the initial design and development of the platform (iCafe), which aims to help engineers improve engineering efficiency by using Agile, DevOps, Platform Engineering and other means, and has now become the first working platform for Baidu engineers.
+  As a core member, participated in the initial design and development of the platform (iCafe), which aims to help engineers improve engineering efficiency by using Agile, DevOps, Platform Engineering and other means, and has now become the first working platform for Baidu engineers.
 
 Education experience
 ======
