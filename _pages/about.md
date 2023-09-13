@@ -25,7 +25,7 @@ highlight
 
 Work experience
 ======
-* **2017.6-Now Technical Director/Architect 4Paradigm(第四范式)**
+* **2017.6-Now Technical Director/Architect  4Paradigm(第四范式)**
 
   1）Responsible for defining, designing, developing, and promoting the company's core products (AI infrastructure and AI-driven applications).
 
@@ -37,7 +37,7 @@ Work experience
 
   Built a technology team from scratch and was responsible for constructing and maintaining user-side systems such as the main website, search, recommendation, and pricing systems. I applied technologies such as big data and AI to the business and improved business performance through data-driven operations and iterative optimization.
 
-* **2010.8-2013.9 Senior Software Development Engineer Baidu(百度）**
+* **2010.8-2013.9 Senior Software Development Engineer  Baidu(百度）**
 
   Responsible for the initial design and development of the platform (icafe) with the aim of improving development efficiency for engineers through agile methodologies, DevOps and platform engineering. It has now become the primary working platform for engineers at Baidu.
 
