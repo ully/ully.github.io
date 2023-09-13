@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 English ｜ [中文](/cn)
 
-More than ten years of experience in AI platform、large-scale Internet recommendation and search system architecture design and development. I have extensive experience in product design, development, and project delivery in AI engineering, MLOps and AI-driven applications such as recommendation , search systems.
+More than ten years of experience in AI platform、large-scale Internet recommendation and search system architecture design and development. Specialized in product design, development, and delivery of AI-related applications such as AI engineering, MLOPS, recommendation systems, and search.
 
 **Long-term focus on product and technology in the field of AI engineering.**
 
