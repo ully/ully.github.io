@@ -9,13 +9,13 @@ redirect_from:
 ---
 English ｜ [中文](/cn)
 
-More than ten years of experience in AI platform, large-scale Internet recommendation and search system architecture design and development. I have extensive experience in product design, development, and project delivery in the field of AI engineering, MLOps, recommendation systems, search systems, and more.
+More than ten years of experience in AI platform、large-scale Internet recommendation and search system architecture design and development. I have extensive experience in product design、development and project delivery in the field of AI engineering、MLOps、recommendation systems、search systems and more.
 
 **Long-term focus on product and technology in the field of AI engineering.**
 
 highlight
 ======
-* I have extensive experience in AI platform and AI-driven application systems (recommendation/search, etc.) in architecture design and development. I have a deep understanding and practical experience in the field of AI engineering, including data center AI, LLM AI, and edge AI.
+* I have extensive experience in AI platform and AI-driven application systems (recommendation/search, etc.) in architecture design and development. I have a deep understanding and practical experience in the field of AI engineering, including data center AI、 LLM AI、 and edge AI.
 * I have rich experience in product design, development, and team management. During my time at The 4Paradigm, I led a team to design and develop core products such as the machine learning platform (Prophet/AIOS), automated machine learning platform (HyperCycle), and Marketing Enterprise-level customer experience management platform(CESS) from scratch.
 * I have led the design and development of the AI Full-scenario flow orchestration and scheduling framework——FlowEngine. This framework is widely used in decision-making AI projects at The 4Paradigm and is now open-source and operated by myself (http://flow-engine.github.io).
 * I have a comprehensive technical skill set and a good grasp of mainstream technologies in big data, cloud-native, and machine learning, with a strong awareness of industry trends.
