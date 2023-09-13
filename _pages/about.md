@@ -39,7 +39,7 @@ Work experience
 
 * **2010.8-2013.9 Senior Software Development Engineer  Baidu(百度）**
 
-  Responsible for the initial design and development of the platform (icafe) with the aim of improving development efficiency for engineers through agile methodologies, DevOps and platform engineering. It has now become the primary working platform for engineers at Baidu.
+  Responsible for the initial design and development of the platform (icafe) with the aim of improving development efficiency for engineers through Agile methodologies, DevOps and Platform Engineering. It has now become the primary working platform for engineers at Baidu.
 
 Education experience
 ======
