@@ -16,13 +16,12 @@ More than ten years of experience in AI platform、large-scale Internet recommen
 
 highlight
 ======
-* I have extensive experience in AI platform and AI-driven application systems (recommendation/search, etc.) in architecture design and development. I have a deep understanding and practical experience in the field of AI engineering, including data center AI、 LLM AI、 and edge AI.
-* I have rich experience in product design, development, and team management. During my time at The 4Paradigm, I led a team to design and develop core products such as the machine learning platform (Sage/AIOS), automated machine learning platform (HyperCycle), and Marketing Enterprise-level customer experience management platform(CESS) from scratch.
-* I have led the design and development of the AI Full-scenario flow orchestration and scheduling framework——FlowEngine. This framework is widely used in decision-making AI projects at The 4Paradigm and is now open-source and operated by myself (http://flow-engine.github.io).
-* I have a comprehensive technical skill set and a good grasp of mainstream technologies in big data, cloud-native, and machine learning, with a strong awareness of industry trends.
-* I have a certain level of industry influence, participating in numerous industry sharing and communication activities. I have contributed to the co-authoring of "MLOps Engineering Practices" and independently operate the media account "AI Engineering（AI工程化）". I also hold more than 10 patents related to AI.
-* I have a certain understanding of enterprise operations, covering the entire process from pre-sales to development and delivery. I have experience in building teams from scratch and incubating business units.
-
+* I have been engaged in the architectural design and development of AI platforms and AI-driven application systems (such as recommendation/search) for a long time, and have a deep understanding and practical experience in the engineering field of data center AI, LLM AI, and edge AI.
+* I have rich experience in product design, development, and team management. During my time at 4th Paradigm, I led the team in designing and developing core products from scratch, including the machine learning platform (Sage/AIOS), the automatic machine learning platform (HyperCycle), and marketing enterprise-level customer experience management platform(天枢/CESS).
+* I led the design and development of the AI full-scenario flow orchestration scheduling framework, FlowEngine. This framework is widely used in the decision-making AI projects at the 4Paradigm and is now open-sourced and operated by me (http://flow-engine.github.io).
+* I have a comprehensive technology stack, mastering big data, cloud-native, mainstream machine learning technologies, and have an understanding of trend development.
+* I have a certain influence in the industry, participated in many industry shares and exchanges, co-authored "MLOps Engineering Practice", independently operate the self-media "AI Engineering", and have more than 10 patents related to AI.
+* I have a certain understanding of enterprise operations, covering the entire process of pre-sales, development, and delivery. I have experience in building a team from scratch and incubating business units.
 
 Work experience
 ======
