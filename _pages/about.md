@@ -31,7 +31,7 @@ Work experience
 
   2）Assisted multiple Fortune 500 clients in AI/digital transformation.
 
-  3）Recently, responsible for the research and development of large-scale model solutions in the company and pre-sales delivery implementation for projects related to retail clients.
+  3）Recently, responsible for the research and development of large-scale model solutions in the company and pre-sales and delivery for projects related to retail clients.
 
 * **2013.9-2017.6 Technical Director/Architect  Qunar(去哪儿)**
 
@@ -39,7 +39,7 @@ Work experience
 
 * **2010.8-2013.9 Senior Software Development Engineer  Baidu(百度）**
 
-  Responsible for the initial design and development of the platform (icafe) with the aim of improving development efficiency for engineers through Agile methodologies, DevOps and Platform Engineering. It has now become the primary working platform for engineers at Baidu.
+  Responsible for the initial design and development of the R&D platform (icafe), which aims to help engineers improve engineering efficiency by using Agile, DevOps, Platform Engineering and other means, and has now become the first working platform for Baidu engineers.
 
 Education experience
 ======
