@@ -1,35 +1,34 @@
 ---
-permalink: /about-cn
+permalink: /cn
 title: "About me"
 excerpt: "About me"
 author_profile: true
 ---
-English ｜ [中文](/about-cn)
+[English](/) ｜ 中文
 
-点点滴滴
-More than ten years of experience in AI platform, large-scale Internet recommendation and search system architecture design and development. My field of work involves devops, mlops, machine learning platform, recommendation system and other AI-driven system architecture.
+十余年AI平台，推荐，搜索等AI驱动型系统的设计开发经验。在AI工程，MLOPS，推荐，搜索等系统有丰富的产品设计，研发及项目交付经验。
 
-Long-term focus on product and technology in the field of AI engineering.
+**长期专注于AI工程化领域相关的技术和产品。**
 
-highlight
+亮点
 ======
-* I have extensive experience in AI platform and AI-driven application systems (recommendation/search, etc.) in architecture design and development. I have a deep understanding and practical experience in the field of AI engineering, including data center AI, LLM AI, and edge AI.
-* I have rich experience in product design, development, and team management. During my time at The 4Paradigm, I led a team to design and develop core products such as the machine learning platform (Prophet/AIOS), automated machine learning platform (HyperCycle), and Marketing Enterprise-level customer experience management platform(CESS) from scratch.
-* I have led the design and development of the AI Full-scenario flow orchestration and scheduling framework——FlowEngine. This framework is widely used in decision-making AI projects at The 4Paradigm and is now open-source and operated by myself (http://flow-engine.github.io).
-* I have a comprehensive technical skill set and a good grasp of mainstream technologies in big data, cloud-native, and machine learning, with a strong awareness of industry trends.
-* I have a certain level of industry influence, participating in numerous industry sharing and communication activities. I have contributed to the co-authoring of "MLOps Engineering Practices" and independently operate the media account "AI Engineering（AI工程化）". I also hold more than 10 patents related to AI.
-* I have a certain understanding of enterprise operations, covering the entire process from pre-sales to development and delivery. I have experience in building teams from scratch and incubating business units.
 
+1.	长期从事AI平台及AI驱动的应用系统（推荐/搜索等）的架构设计与开发工作，在数据中心AI，大模型AI，边缘AI工程化领域有深刻的认识和实践经验。
+2.	丰富的产品设计、开发和团队管理经验。在第四范式期间，领导团队从0到1设计开发了机器学习平台（先知/AIOS），自动机器学习平台（HyperCycle），数智运营平台天枢（CESS）等公司核心产品。
+3.	主导设计开发了AI全场景流程编排调度框架FlowEngine，该框架在第四范式决策类AI项目中广泛使用，现已由本人开源运营（http://flow-engine.github.io）。
+4.	全面的技术栈，掌握大数据，云原生，机器学习主流技术并对趋势发展有认知。
+5.	一定的行业影响力，参与众多行业分享交流，参与编著《MLOps工程实践》，独立运营自媒体《AI工程化》，拥有人工智能相关专利10余项。
+6.	对企业运营有一定的认识，覆盖售前，开发，交付全过程，有0到1搭建团队，孵化BU的经验。
 
-Work experience
+工作经历
 ======
-* 2017.6-Now 4Paradigm(第四范式)
-* 2013.9-2017.6 Qunar(去哪儿)
-* 2010.8-2013.9 Baidu(百度）
+* 2017.6-至今 第四范式
+* 2013.9-2017.6 去哪儿
+* 2010.8-2013.9 百度
 
 Education experience
 ======
-* Master in Renmin University of China(中国人民大学)
-* Bachelor in Xidian University(西安电子科技大学)
+* 硕士研究生-中国人民大学
+* 本科-西安电子科技大学
 
 

@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-English ｜ [中文](/about-cn)
+English ｜ [中文](/cn)
 
-More than ten years of experience in AI platform, large-scale Internet recommendation and search system architecture design and development. My field of work involves devops, mlops, machine learning platform, recommendation system and other AI-driven system architecture.
+More than ten years of experience in AI platform, large-scale Internet recommendation and search system architecture design and development. I have extensive experience in product design, development, and project delivery in the field of AI engineering, MLOps, recommendation systems, search systems, and more.
 
-Long-term focus on product and technology in the field of AI engineering.
+**Long-term focus on product and technology in the field of AI engineering.**
 
 highlight
 ======
