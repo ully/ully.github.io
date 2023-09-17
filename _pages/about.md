@@ -29,7 +29,7 @@ Work experience
 
   1）I was responsible for defining, designing, developing, and promoting the company's core products (AI infrastructure and AI-driven applications).
 
-  2）I assisted assisted multiple Fortune 500 clients in AI/digital transformation.
+  2）I assisted multiple Fortune 500 clients in AI/digital transformation.
 
   3）Recently,I am responsible for the research and development of LLM solutions in the company, and pre-sales and delivery for projects related to retail clients.
 
