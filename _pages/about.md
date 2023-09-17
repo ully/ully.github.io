@@ -10,14 +10,14 @@ redirect_from:
 
 English ｜ [中文](/cn)
 
-More than ten years of experience in AI platform、large-scale Internet recommendation and search system architecture design and development. Specialized in product design, development, and delivery of AI-related applications such as AI engineering、MLOPS、recommendation and search systems.
+As an architect and developer , I have more than ten years of experience in AI platform、large-scale Internet recommendation and, Specialized in product design, development, and delivery of AI-related applications such as AI engineering、MLOPS、recommendation and search systems.
 
-**Long-term focus on product and technology in the field of AI engineering.**
+**I continuously focus on product and technology in the field of AI engineering.**
 
 Highlight
 ======
 * I have been engaged in the architectural design and development of AI platforms and AI-driven application systems (such as recommendation/search) for a long time, and have a deep understanding and practical experience in the engineering field of data center AI, LLM AI, and edge AI.
-* I have rich experience in product design, development, and team management. During my time at 4Paradigm, I led the team in designing and developing core products from scratch, including the machine learning platform ([先知/AIOS](https://en.4paradigm.com/product/aios.html)), the automatic machine learning platform ([AutoML/HyperCycle](https://en.4paradigm.com/product/hypercycle.html)), and marketing enterprise-level customer experience management platform([天枢/CESS](https://en.4paradigm.com/product/cess.html)).
+* I have an experienced product designer, architect and team manager.  During my time at 4Paradigm, I led the team in designing and developing core products from scratch, including the machine learning platform([先知/AIOS](https://en.4paradigm.com/product/aios.html)), the automatic machine learning platform ([AutoML/HyperCycle](https://en.4paradigm.com/product/hypercycle.html)), and marketing enterprise-level customer experience management platform([天枢/CESS](https://en.4paradigm.com/product/cess.html)).
 * I led the design and development of the AI full-scenario flow orchestration scheduling framework([FlowEngine](http://flow-engine.github.io)). This framework is widely used in the decision-making AI projects at 4Paradigm and is now open-sourced and operated by me.
 * I have a comprehensive technology stack, mastering big data、cloud-native、 machine learning mainstream technologies, and have an understanding of trend development.
 * I have a certain influence in the industry, participated in many industry shares and exchanges, co-authored "MLOps Engineering Practice", independently operate the we media "AI Engineering（AI工程化）", and have more than 10 patents related to AI.
