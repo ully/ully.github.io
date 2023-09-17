@@ -27,7 +27,7 @@ Work experience
 ======
 * **2017.6-Now  [4Paradigm(第四范式)](http://www.4paradigm.com) Technical Director/Architect**
 
-  1）I am responsible for defining, designing, developing, and promoting the company's core products (AI infrastructure and AI-driven applications).
+  1）I was responsible for defining, designing, developing, and promoting the company's core products (AI infrastructure and AI-driven applications).
 
   2）I assisted multiple Fortune 500 clients in AI/digital transformation.
 
