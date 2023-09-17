@@ -10,7 +10,7 @@ redirect_from:
 
 English ｜ [中文](/cn)
 
-As an architect and developer , I have more than ten years of experience in AI platform、large-scale Internet recommendation and, Specialized in product design, development, and delivery of AI-related applications such as AI engineering、MLOPS、recommendation and search systems.
+As an architect and developer , I have more than ten years of experience in AI platform、large-scale Internet recommendation,and specialized in product design, development, and delivery of AI-related applications such as AI engineering、MLOPS、recommendation and search systems.
 
 **I continuously focus on product and technology in the field of AI engineering.**
 
