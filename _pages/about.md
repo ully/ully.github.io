@@ -10,7 +10,7 @@ redirect_from:
 
 English ｜ [中文](/cn)
 
-As an architect and developer , I have more than ten years of experience in AI platform、large-scale Internet recommendation,and specialized in product design, development, and delivery of AI-related applications such as AI engineering、MLOPS、recommendation and search systems.
+As an architect and developer, I have more than ten years of experience in AI platform、large-scale Internet recommendation,and specialized in product design, development, and delivery of AI-related applications such as AI engineering、MLOPS、recommendation and search systems.
 
 **I continuously focus on product and technology in the field of AI engineering.**
 
@@ -31,15 +31,15 @@ Work experience
 
   2）I assisted multiple Fortune 500 clients in AI/digital transformation.
 
-  3）Recently,I am responsible for the research and development of LLM solutions in the company, and pre-sales and delivery for projects related to retail clients.
+  3）Recently, I am responsible for the research and development of LLM solutions in the company, and pre-sales and delivery for projects related to retail clients.
 
 * **2013.9-2017.6  [Qunar(去哪儿)](http://www.qunar.com) Technical Director/Architect**
 
-  As an architect and technical director,I built a technology team from scratch and was responsible for constructing and maintaining user-side systems such as the main website、search、recommendation and pricing systems. I applied technologies such as big data and AI to the business and improved business performance through data-driven operations and iterative optimization.
+  As an architect and technical director, I built a technology team from scratch and was responsible for constructing and maintaining user-side systems such as the main website、search、recommendation and pricing systems. I applied technologies such as big data and AI to the business and improved business performance through data-driven operations and iterative optimization.
 
 * **2010.8-2013.9 [Baidu(百度)](https://www.baidu.com/) Senior Software Development Engineer**
 
-  As a core member,I participated in the initial design and development of the platform (iCafe), which aims to help engineers improve engineering efficiency by using Agile、DevOps、Platform Engineering , and more. It has now become the first working platform for Baidu engineers.
+  As a core member, I participated in the initial design and development of the platform (iCafe), which aims to help engineers improve engineering efficiency by using Agile、DevOps、Platform Engineering , and more. It has now become the first working platform for Baidu engineers.
 
 Education experience
 ======
