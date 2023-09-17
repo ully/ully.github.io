@@ -27,19 +27,19 @@ Work experience
 ======
 * **2017.6-Now  [4Paradigm(第四范式)](http://www.4paradigm.com) Technical Director/Architect**
 
-  1）Responsible for defining, designing, developing, and promoting the company's core products (AI infrastructure and AI-driven applications).
+  1）I was responsible for defining, designing, developing, and promoting the company's core products (AI infrastructure and AI-driven applications).
 
-  2）Assisted multiple Fortune 500 clients in AI/digital transformation.
+  2）I assisted assisted multiple Fortune 500 clients in AI/digital transformation.
 
-  3）Recently, responsible for the research and development of LLM solutions in the company, and pre-sales and delivery for projects related to retail clients.
+  3）Recently,I am responsible for the research and development of LLM solutions in the company, and pre-sales and delivery for projects related to retail clients.
 
 * **2013.9-2017.6  [Qunar(去哪儿)](http://www.qunar.com) Technical Director/Architect**
 
-  Built a technology team from scratch and was responsible for constructing and maintaining user-side systems such as the main website、search、recommendation and pricing systems. I applied technologies such as big data and AI to the business and improved business performance through data-driven operations and iterative optimization.
+  As an architect and technical director,I built a technology team from scratch and was responsible for constructing and maintaining user-side systems such as the main website、search、recommendation and pricing systems. I applied technologies such as big data and AI to the business and improved business performance through data-driven operations and iterative optimization.
 
 * **2010.8-2013.9 [Baidu(百度)](https://www.baidu.com/) Senior Software Development Engineer**
 
-  As a core member, participated in the initial design and development of the platform (iCafe), which aims to help engineers improve engineering efficiency by using Agile、DevOps、Platform Engineering and other means, and has now become the first working platform for Baidu engineers.
+  As a core member,I participated in the initial design and development of the platform (iCafe), which aims to help engineers improve engineering efficiency by using Agile、DevOps、Platform Engineering , and more. It has now become the first working platform for Baidu engineers.
 
 Education experience
 ======
