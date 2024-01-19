@@ -10,7 +10,7 @@ redirect_from:
 
 English ｜ [中文](/cn)
 
-As an architect and developer, I have more than ten years of experience in AI platform、large-scale Internet recommendation,and specialized in product design, development, and delivery of AI-related applications such as AI engineering、MLOPS、recommendation and search systems.
+As an architect and developer, I have more than ten years of experience in AI platform、large-scale Internet recommendation,and specialized in product design, development, and delivery of AI-related applications such as AI engineering、LLMOPS/MLOPS、recommendation and search systems.
 
 **I continuously focus on product and technology in the field of AI engineering.**
 
@@ -31,7 +31,7 @@ Work experience
 
   2）I assisted multiple Fortune 500 clients in AI/digital transformation.
 
-  3）Recently, I am responsible for the research and development of LLM solutions in the company, and pre-sales and delivery of key projects.
+  3）Recently, I have been dedicated to the design and development of the solution for LLM application development platform（eg.RAG、Agent）, as well as supporting the pre-sales and delivery implementation of key projects.
 
 * **2013.9-2017.6  [Qunar(去哪儿)](http://www.qunar.com) Technical Director/Architect**
 
